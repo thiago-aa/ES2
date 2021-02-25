@@ -1,0 +1,89 @@
+Thiago Alves de Almeida - 003048191
+00:00 - 03:30
+ - Diferentes Modelos
+ - Diferentes necessidades
+---------------------------------------------
+03:30 - 05:56
+ - Documentação
+ - Funcionalidade
+ - Desempenho
+ - Usabilidade
+---------------------------------------------
+05:57 - 06:19
+ - Engenharia de Software
+ - Especificação
+ - Validação
+ - Desenvolvimento
+ - Evolução
+---------------------------------------------
+06:20 - 08:46
+ - Ciência da Computação
+ - Teoria
+ - Fundamentos
+ - Velocidade
+ - Confiabilidade
+ - Internet
+---------------------------------------------
+08:47 - 10:34
+ - Atividades
+ - Implementação
+---------------------------------------------
+10:35 - 15:59
+ - Modelos
+ - Frameorks
+ - Cascata
+ - Incremental
+ - Orientada a Reuso
+----------------------------------------------
+16:00 - 17:04
+ - Especificar
+ - Desenvolver 
+ - Validar
+ - Evoluir
+-----------------------------------------------
+17:05 - 18:15
+ - Subdivisões dos Processos 
+ - Requisitos
+ - Estudo
+ - Viabilidade
+ - Coleta
+ - Especificação
+ - Validação com o cliente
+-----------------------------------------------
+18:16 - 19:44
+ - Arquitetura
+ - Banco de dados
+ - Componentes
+ - Interface
+------------------------------------------------
+19:45 - 20:53
+ - Testes
+ - Componentes
+ - Sistemas
+ - Aceitação
+------------------------------------------------
+20:54 - Fim
+ - Evolução
+ - Avaliar
+ - Corrigir
+ - Modificar
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
